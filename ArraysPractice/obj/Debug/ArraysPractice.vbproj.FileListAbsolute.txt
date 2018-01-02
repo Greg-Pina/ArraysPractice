@@ -1,0 +1,74 @@
+C:\Users\Ray\AppData\Local\Temporary Projects\ArraysPractice\bin\Debug\ArraysPractice.exe.config
+C:\Users\Ray\AppData\Local\Temporary Projects\ArraysPractice\bin\Debug\ArraysPractice.exe
+C:\Users\Ray\AppData\Local\Temporary Projects\ArraysPractice\bin\Debug\ArraysPractice.pdb
+C:\Users\Ray\AppData\Local\Temporary Projects\ArraysPractice\bin\Debug\ArraysPractice.xml
+C:\Users\Ray\AppData\Local\Temporary Projects\ArraysPractice\obj\Debug\ArraysPractice.Form1.resources
+C:\Users\Ray\AppData\Local\Temporary Projects\ArraysPractice\obj\Debug\ArraysPractice.Resources.resources
+C:\Users\Ray\AppData\Local\Temporary Projects\ArraysPractice\obj\Debug\ArraysPractice.vbproj.GenerateResource.Cache
+C:\Users\Ray\AppData\Local\Temporary Projects\ArraysPractice\obj\Debug\ArraysPractice.exe
+C:\Users\Ray\AppData\Local\Temporary Projects\ArraysPractice\obj\Debug\ArraysPractice.xml
+C:\Users\Ray\AppData\Local\Temporary Projects\ArraysPractice\obj\Debug\ArraysPractice.pdb
+C:\Users\Ray\Documents\CinState\.Net 101\Week Twelve\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.exe.config
+C:\Users\Ray\Documents\CinState\.Net 101\Week Twelve\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.exe
+C:\Users\Ray\Documents\CinState\.Net 101\Week Twelve\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.xml
+C:\Users\Ray\Documents\CinState\.Net 101\Week Twelve\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.pdb
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Twelve\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.exe.config
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Twelve\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.exe
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Twelve\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.xml
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Twelve\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.pdb
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Twelve\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.exe
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Twelve\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.pdb
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Twelve\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.xml
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Twelve\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.Form1.resources
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Twelve\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.Resources.resources
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Twelve\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.vbproj.GenerateResource.Cache
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Thirteen\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.exe.config
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Thirteen\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.exe
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Thirteen\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.xml
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Thirteen\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.pdb
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Thirteen\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.exe
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Thirteen\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.pdb
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Thirteen\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.xml
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Thirteen\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.Form1.resources
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Thirteen\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.Resources.resources
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Thirteen\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.vbproj.GenerateResource.Cache
+C:\Users\raymond.harmon\Desktop\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.exe.config
+C:\Users\raymond.harmon\Desktop\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.exe
+C:\Users\raymond.harmon\Desktop\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.xml
+C:\Users\raymond.harmon\Desktop\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.pdb
+C:\Users\raymond.harmon\Desktop\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.exe
+C:\Users\raymond.harmon\Desktop\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.pdb
+C:\Users\raymond.harmon\Desktop\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.xml
+C:\Users\raymond.harmon\Desktop\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.Form1.resources
+C:\Users\raymond.harmon\Desktop\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.Resources.resources
+C:\Users\raymond.harmon\Desktop\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.vbproj.GenerateResource.Cache
+Z:\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.exe.config
+Z:\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.exe
+Z:\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.xml
+Z:\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.pdb
+Z:\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.exe
+Z:\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.pdb
+Z:\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.xml
+Z:\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.Form1.resources
+Z:\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.Resources.resources
+Z:\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.vbproj.GenerateResource.Cache
+C:\Users\raymond.harmon\Desktop\Zips\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.exe.config
+C:\Users\raymond.harmon\Desktop\Zips\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.exe
+C:\Users\raymond.harmon\Desktop\Zips\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.xml
+C:\Users\raymond.harmon\Desktop\Zips\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.pdb
+C:\Users\raymond.harmon\Desktop\Zips\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.exe
+C:\Users\raymond.harmon\Desktop\Zips\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.pdb
+C:\Users\raymond.harmon\Desktop\Zips\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.xml
+C:\Users\raymond.harmon\Desktop\Zips\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.Form1.resources
+C:\Users\raymond.harmon\Desktop\Zips\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.Resources.resources
+C:\Users\raymond.harmon\Desktop\Zips\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.vbproj.GenerateResource.Cache
+C:\Users\Ray\Desktop\Zips\SportsLeague_Assignment13\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.exe.config
+C:\Users\Ray\Desktop\Zips\SportsLeague_Assignment13\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.exe
+C:\Users\Ray\Desktop\Zips\SportsLeague_Assignment13\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.xml
+C:\Users\Ray\Desktop\Zips\SportsLeague_Assignment13\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.pdb
+C:\Users\Ray\Desktop\Zips\SportsLeague_Assignment13\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.exe
+C:\Users\Ray\Desktop\Zips\SportsLeague_Assignment13\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.pdb
+C:\Users\Ray\Desktop\Zips\SportsLeague_Assignment13\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.xml
+C:\Users\Ray\Desktop\Zips\SportsLeague_Assignment13\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.Form1.resources
+C:\Users\Ray\Desktop\Zips\SportsLeague_Assignment13\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.Resources.resources
+C:\Users\Ray\Desktop\Zips\SportsLeague_Assignment13\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.vbproj.GenerateResource.Cache
